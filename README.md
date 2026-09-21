@@ -138,3 +138,47 @@ Google-Play-Store-Analytics/
 ├── index.html
 ├── README.md
 └── LICENSE
+
+Key Skills Demonstrated
+Data Cleaning
+Data Preprocessing
+Exploratory Data Analysis
+Data Filtering
+Aggregation
+GroupBy Analysis
+Time-Series Analysis
+Business-Oriented Data Analysis
+Data Visualization
+Python Programming
+Pandas
+Plotly
+Analytical Problem Solving
+Project Outcome
+
+The project demonstrates how raw Google Play Store data can be cleaned, transformed, analyzed, and visualized to identify meaningful patterns and business insights.
+
+The six tasks provide practical experience in transforming raw application data into analytical results and visualizations.
+
+Internship Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+Handling real-world datasets
+Cleaning and preprocessing data
+Applying analytical filters
+Performing category-level analysis
+Working with time-series data
+Creating interactive visualizations
+Interpreting analytical results
+Presenting data-driven insights
+Author
+
+Sowmya Mula
+
+B.Tech – Information Technology
+
+ANITS, Visakhapatnam
+
+License
+
+This project is intended for educational and internship purposes.
